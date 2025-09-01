@@ -1,0 +1,15 @@
+CRYST1    0.000    0.000    0.000  90.00  90.00  90.00 P 1           1
+ATOM      1  N   SER X  24      51.829  62.838  57.952  1.00  0.00      comp N
+ATOM      2  CA  SER X  24      52.866  62.507  56.857  1.00  0.00      comp C
+ATOM      3  C   SER X  24      52.554  61.134  56.189  1.00  0.00      comp C
+ATOM      4  O   SER X  24      53.508  60.567  55.636  1.00  0.00      comp O
+ATOM      5  N   CYM X  25      51.385  60.538  56.321  1.00  0.00      comp N
+ATOM      6  CA  CYM X  25      51.086  59.122  56.074  1.00  0.00      comp C
+ATOM      7  C   CYM X  25      51.329  58.694  54.636  1.00  0.00      comp C
+ATOM      8  O   CYM X  25      51.822  57.603  54.363  1.00  0.00      comp O
+ATOM      9  CB  CYM X  25      49.747  58.803  56.589  1.00  0.00      comp C
+ATOM     10  SG  CYM X  25      48.499  60.041  56.081  1.00  0.00      comp S
+ATOM     11  N   TRP X  26      50.927  59.577  53.676  1.00  0.00      comp N
+ATOM     12  CA  TRP X  26      51.213  59.568  52.223  1.00  0.00      comp C
+ATOM     13  N   SER X  29      53.239  55.522  53.182  1.00  0.00      comp N
+END
